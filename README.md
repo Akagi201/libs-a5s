@@ -12,6 +12,7 @@ This repo is used to backup libs cross-compiled on A5S
 * json-c: 0.12
 * openssl: 1.0.1j
 * zlib: 1.2.8
+* curl: 7.38.0
 
 
 ## note for reference
