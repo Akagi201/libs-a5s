@@ -14,6 +14,7 @@ This repo is used to backup libs cross-compiled on A5S
 * zlib: 1.2.8
 * curl: 7.38.0
 * libaacplus: 2.0.2
+* x264: x264-snapshot-20141015-2245
 
 
 ## note for reference
