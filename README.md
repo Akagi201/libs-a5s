@@ -15,6 +15,8 @@ This repo is used to backup libs cross-compiled on A5S
 * curl: 7.38.0
 * libaacplus: 2.0.2
 * x264: x264-snapshot-20141015-2245
+* librtmp: git-a1900c3e152085406ecb87c1962c55ec9c6e4016
+
 
 
 ## note for reference
