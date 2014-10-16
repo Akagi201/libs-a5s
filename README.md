@@ -10,6 +10,7 @@ This repo is used to backup libs cross-compiled on A5S
 ## libs
 * All libs are stripped already to decrease the size.
 * json-c: 0.12
+* openssl: 1.0.1j
 
 
 ## note for reference
