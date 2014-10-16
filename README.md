@@ -13,6 +13,7 @@ This repo is used to backup libs cross-compiled on A5S
 * openssl: 1.0.1j
 * zlib: 1.2.8
 * curl: 7.38.0
+* libaacplus: 2.0.2
 
 
 ## note for reference
