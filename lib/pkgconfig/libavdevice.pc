@@ -10,5 +10,5 @@ Requires:
 Requires.private: libavfilter >= 5.1.100, libswscale >= 3.0.100, libpostproc >= 53.0.100, libavformat >= 56.4.101, libavcodec >= 56.1.100, libswresample >= 1.1.100, libavutil >= 54.7.100
 Conflicts:
 Libs: -L${libdir}  -lavdevice 
-Libs.private: -lx264 -laacplus -lm -lz -pthread -lrt -ldl
+Libs.private: -lx264 -lm -lz -pthread -lrt -ldl
 Cflags: -I${includedir}
