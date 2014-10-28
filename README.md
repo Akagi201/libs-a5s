@@ -17,6 +17,7 @@ This repo is used to backup libs cross-compiled on A5S
 * x264: x264-snapshot-20141015-2245
 * librtmp: git-a1900c3e152085406ecb87c1962c55ec9c6e4016
 * ffmpeg: 2.4.2
+* libuv: 1.0.0-rc2
 
 ## note for reference
 * <https://gist.github.com/Akagi201/1f6fe5ff5b9b76c643af>
